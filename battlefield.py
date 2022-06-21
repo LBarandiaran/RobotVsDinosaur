@@ -20,8 +20,7 @@ class Battlefield:
         
 
     def battle_phase(self):
-        if robot.health >= 1:
-            print(f"Mr. Roboto attacked Rex and caused 25 damage")
+        pass
 
 
         
